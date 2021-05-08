@@ -1,2 +1,2 @@
-- export DEPLOYPATH=/home/bitcyjda/mycodepen.com/github_sites
+- export DEPLOYPATH=/home/bitcyjda/mycodepen.com/github_sites/
 - /bin/cp * $DEPLOYPATH
